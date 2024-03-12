@@ -1,0 +1,214 @@
+
+/* 
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        background-color: #333;
+        padding: 10px 20px;
+        margin: 0;
+    }
+    
+    .enun {
+        text-align: center;
+    }
+    
+    #bar {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 0;
+    }
+    
+    
+    #bar a {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-left: 10px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+        
+        
+        #bar a:hover {
+        
+        background-color: #555; 
+    }
+    
+    h2 {
+        text-align: center;
+        margin-top: 60px;
+    }
+    
+    #fs {
+        text-align: start;
+        margin-top: 10px;
+        text-decoration: underline;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 60px;
+    }
+    
+    table, th, td {
+        border: 1px solid #333;
+    }
+    
+    th, td {
+        padding: 8px;
+        text-align: left;
+    }
+    
+    th {
+        background-color: #ccc; 
+    }
+    
+    td {
+        background-color: #f2f2f2; 
+    }
+    
+    article {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+        clear: both;
+    }
+    
+    span {
+        font-weight: bold;
+    }
+    
+    li ol{
+        list-style-type: lower-latin;
+    }
+    
+    ol li::marker {
+        font-weight: bold;
+        list-style-type:decimal;
+    } */
+
+
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        background-color: #333;
+        padding: 10px 20px;
+        margin: 0;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Agrega sombra */
+    }
+    
+    .enun {
+        text-align: center;
+    }
+    
+    #bar {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 0;
+    }
+    
+    #bar a {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-left: 10px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Agrega sombra */
+    }
+    
+    #bar a:hover {
+        background-color: #555; /* Cambia el color al pasar el ratón */
+    }
+    
+    h2 {
+        text-align: center;
+        margin-top: 60px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Agrega sombra */
+    }
+    
+    #fs {
+        text-align: start;
+        margin-top: 10px;
+        text-decoration: underline;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 60px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.); /* Agrega sombra */
+    }
+    
+    table, th, td {
+        border: 1px solid #333;
+    }
+    
+    th, td {
+        padding: 8px;
+        text-align: left;
+    }
+    
+    th {
+        background-color: #ccc; /* Fondo gris claro para las celdas de encabezado */
+    }
+    
+    td {
+        background-color: #f2f2f2; /* Fondo gris claro para las celdas de datos */
+    }
+    
+    article {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+        clear: both;
+    }
+    
+    span {
+        font-weight: bold;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Agrega sombra */
+    }
+    
+    ol::marker {
+        font-weight: bold;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Agrega sombra */
+    }
+    .list2{
+        list-style-type: lower-alpha;
+    }
